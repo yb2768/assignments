@@ -5,7 +5,7 @@
 def welcome_assignment_answers(question):
 
     if question == "In Slack, what is the secret passphrase posted in the #lab-python-getting-started channel posted by a TA?":
-        answer = "pcap is the secret passphrase"
+        answer = "pcap"
 
     elif question == "Are encoding and encryption the same? - Yes/No":
         answer = "No"
@@ -20,7 +20,7 @@ def welcome_assignment_answers(question):
         answer = "No"
 
     elif question == "What is the SHA256 hashing value of your NYU email and use the answer in your code - ":
-        answer = "REPLACE_WITH_YOUR_SHA256_HASH"
+        answer = "74f37c44fd6bf6c50d5afaead60791c1362029b26c179702cbb619591b3d1685"
 
     elif question == "Is MD5 a secured hashing algorithm? - Yes/No":
         answer = "No"
